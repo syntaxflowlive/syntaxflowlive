@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @syntaxflowlive
+- 👀 I’m interested in learning programming languages for fun
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on OSS
+- 📫 How to reach me: syntax.flow.live@hotmail.com
+- ⚡ Fun fact: I think I am a good streamer and content creator
